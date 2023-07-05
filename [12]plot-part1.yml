@@ -1,676 +1,563 @@
 - 1:
-  outline:
+  property:
     name: 始まり
     title:
-    summary:
-      description: 導入バトル、翼妖精を助ける、ヴィーオシルティムの試練を受ける、キーになるアイテムを授けられる
-      emotion: ドキドキワクワク、いい気分、クライマックス、いい気分、認識
-    flag:
-      - battle
-    memo:
-      - 
-
-  detail:
-    property:
-      day: 1
-      season: 初夏
-      start time: 昼すぎ
-      place: 深い森の中
-      weather: 晴れ
-      temperature: すがすがしい
-      brightness: 日陰で少し暗い
-
-    emotion:
-      - name: ドキドキワクワク
-        detail: 命の危険、探検感、未知の存在、神秘
-
-      - name: いい気分
-        detail: レオンが強者と分かる、レオンが特別だと分かる
-
-      - name: クライマックス
-        detail: 神の眷属との戦い
-
-      - name: いい気分
-        detail: レオンが強者と分かる、レオンが特別だと分かる
-
-      - name: 認識
-        detail: 世界観、レオンの目的、レオンの欲求
-
-    depiction:
-      - name: レオン
-        detail: レオンの特長
-
-      - name: 深い森
-        detail: 森がちな世界の描写
-
-      - name: 魔物
-        detail: 魔物の存在する世界
-
-      - name: 魔法
-        detail: 魔法の存在する世界
-
-    characters:
-      - レオン
-      - イリーナ
-
-    foreshadowing:
-      - 翼妖精が恩を感じる
-      - レオン＝王子：「魔法王は最強の戦士なの。世界を統べる力を持っているそうよ」「そつぁすげぇな。そんなに強くなってみてぇもんだ。まぁ世界を統べる気なんてないけどな」「人はみんな王様になりたいんじゃないの」「そういう奴は大勢いるかもしれねぇが、王ってのは大変なんだ。いや大変らしいんだ。俺には気楽な旅をしてるのが似合ってる」
-
-    composition:
-      - scene: 魔物との戦闘
-        element:
-          - emotion: ドキドキワクワク
-            detail:
-              - 激しい戦闘
-          - emotion: いい気分
-            detail:
-              - レオンが強者であること
-          - emotion: 認識
-            detail:
-              - 魔物の存在
-              - 魔法の存在
-              - 魔物の魔質結晶
-              - レオンの容姿（注：赤い瞳）
-              - レオンが戦闘を楽しんでいること
-              - 深い森の中、森がちな世界
-
-      - scene: 翼妖精を助ける
-        element:
-          - emotion: ドキドキワクワク
-            detail:
-              - 戦闘
-          - emotion: いい気分
-            detail:
-              - 翼妖精からの感謝
-              - 翼妖精からの評価
-          - emotion: 認識
-            detail:
-              - 
+  situation:
+    day: 1
+    season: 初夏
+    start time: 昼すぎ
+    place: 深い森の中
+    weather: 晴れ
+    temperature: すがすがしい
+    brightness: 日陰で少し暗い
+  emotion:
+    - ドキドキワクワク
+    - いい気分
+  depiction:
+    - レオンは魔法王のように強い
+    - レオンの出身は南の国
+    - レオン「王は大変なんだ」
+    - ヴィーオシルティムがアイテムを渡して言う「儂らは古の契約に従うまでじゃ。主神殿は違う思いのようじゃがな」
+    - レオンは城の書庫で輝くスクロールを見付けた。そこにここの地図が書かれていた
+  characters:
+    - レオン
+    - イリーナ
+    - ヴィーオシルティム
+  foreshadowing:
+    - 翼妖精が恩を感じる
+  memo:
+    - レオン＝王子：「魔法王は最強の戦士なの。世界を統べる力を持っているそうよ」「そつぁすげぇな。そんなに強くなってみてぇもんだ。まぁ世界を統べる気なんてないけどな」「人はみんな王様になりたいんじゃないの」「そういう奴は大勢いるかもしれねぇが、王ってのは大変なんだ。いや大変らしいんだ。俺には気楽な旅をしてるのが似合ってる」
 
 - 2:
-  outline:
-    name: リリアとの出会い
+  property:
+    name: 出会い
     title:
-    summary:
-      description: ヴェトラヤル、リリアのバトル、リリアがボコられる、レオンが助ける
-      emotion: 危機感、エロ、ストレス蓄積、緊張、クライマックス、いい気分、認識
-    flag:
-      - battle
-      - vetrayal
-      - craid
-    memo:
-      - レオンの女性の裸身への恐怖
-
-  detail:
-    property:
-      day: 1
-      season: 初夏
-      start time: 昼すぎ
-      place: 深い森の中
-      weather: 晴れ
-      temperature: すがすがしい
-      brightness: 日陰で少し暗い
-
-    emotion:
-      - name: 危機感
-        detail: ヴェトラヤルの存在
-
-      - name: エロ
-        detail: リリアがボコられる
-
-      - name: ストレス蓄積
-        detail: 敵意を見せられる
-
-      - name: クライマックス
-        detail: レオンとクレイドの戦闘
-
-      - name: いい気分
-        detail: レオンとリリアの甘い時間
-
-    depiction:
-      - 
-
-    characters:
-      - 
-
-    foreshadowing:
-      - 
-
-    composition:
-      - name: クレイドと戦う
-        note: 軽く攻撃し合う
+  situation:
+    day: 1
+    season: 初夏
+    start time: 昼すぎ
+    place: 深い森の中
+    weather: 晴れ
+    temperature: すがすがしい
+    brightness: 日陰で少し暗い
+  emotion:
+    - いい気分
+    - ストレス蓄積
+    - エロ
+  depiction:
+    - レオンを知っているクレイド
+    - レオンが裸のリリアに怯える
+    - 「リリアを襲え」ヴェトラヤルの名前の開示
+    - 2人の手の甲に紋章
+    - リリアは対人戦で剣が鈍る
+    - リリアが夢で会って好きになっている男性はレオンだった
+    - レオンとリリアが見つめ合う
+    - クレイドの瞳は赤
+    - クレイドは仮面をしている
+    - ヴェトラヤル、復活すればクレイドを吸収してしまえばいい。クレイドを強くするのは一石二鳥だ
+  characters:
+    - レオン
+    - リリア
+    - クレイド
+    - アンネマリー
+    - ヴェトラヤル
+  foreshadowing:
+    - 
+  memo:
+    - 
 
 - 3:
-  outline:
+  property:
     name: 合流
     title:
-    summary:
-      description: マル爺と再会する、マル爺の試練
-      emotion: ドキドキワクワク、緊張、クライマックス、認識
-    flag:
-      - ordeal
-    memo:
-      - 毒チャレンジの老人から神気を感じる
-  detail:
-    emotion:
-      - name: いい気分
-        note: 
-
-    element:
-      composition:
-        - name: 
-          note:
+  situation:
+    day: 4
+    season: 初夏
+    start time: 
+    place: 
+    weather: 
+    temperature: 
+    brightness: 
+  emotion:
+    - ドキドキワクワク
+  depiction:
+    - レオンがアルメクトの声に怯える
+    - マル爺に喜びの感情がないことをなんとなく表現する
+    - マル爺には美味しさが分からない
+    - ストラン人には魅了の力が効かない
+    - レオンとリリアがお互いの得意なことについて語る
+    - レウネの黒柱についての情報を得る
+  characters:
+    - レオン
+    - リリア
+    - マル爺
+    - 謎の老人
+    - アルメクト（声のみ）
+  foreshadowing:
+    - 
+  memo:
+    - 毒チャレンジの老人から神気を感じる
 
 - 4:
-  outline:
+  property:
     name: レウネの黒柱 1
     title:
-    summary:
-      description: ヴィーオシルティムに授けられたアイテムで神殿に入る、バシルーラ、レウネの黒柱を手に入れる、道標の手がかりを得る
-      emotion: 危機感、ドキドキワクワク、緊張、ストレス蓄積、クライマックス、認識
-    flag:
-      - battle
-      - vetrayal
-      - craid
-    memo:
-      - 破壊神の神殿は封じられている。契約者にふさわしい者が現れるまで
-      - クレイドの幼き日の夢
-  detail:
-    property:
-
-    emotion:
-
-    depiction:
-
-    characters:
-
-    foreshadowing:
-      - レオン＝王子：クレイドが見る過去の夢
-
-    composition:
+  situation:
+    day: 
+    season: 初夏
+    start time: 
+    place: 
+    weather: 
+    temperature: 
+    brightness: 
+  emotion:
+    - ドキドキワクワク
+  depiction:
+    - クレイドの悪夢
+    - クレイドの悪夢に登場する誰か
+    - クレイドの過去
+    - ヴェトラヤル「破壊神と契約する者を殺せ」
+    - ヴェトラヤル「レウネの黒柱を破壊せよ」
+    - アルメクトによる妨害で神域に入った者しか察知できないし神殿の中に入られれば察知することが難しい
+    - リリアが神殿の情報を持ってくる
+    - 神殿に入るときレオンがリリアの肩に手を置く。リリアはレオンの手を撫でて嬉しげに微笑む
+  characters:
+    - レオン
+    - リリア
+    - マル爺
+    - クレイド
+    - アンネマリー
+    - ヴェトラヤル
+  foreshadowing:
+    - 
+  memo:
+    - 破壊神の神殿は封じられている。契約者にふさわしい者が現れるまで
+    - クレイドの幼き日の夢
 
 - 5:
-  outline:
+  property:
     name: レウネの黒柱 2
     title: 
-    summary:
-      description: 
-      emotion: 
-    flag:
-      - battle
-      - craid
-    memo:
-      - 見つめ合う
-
-  detail:
-    property:
-
-    emotion:
-
-    depiction:
-
-    characters:
-
-    foreshadowing:
-
-    composition:
+  situation:
+    day: 
+    season: 初夏
+    start time: 
+    place: 
+    weather: 
+    temperature: 
+    brightness: 
+  emotion:
+    - ドキドキワクワク
+    - いい気分
+    - ストレス蓄積
+  depiction:
+    - リリアは対人戦で剣が鈍る
+    - ランダム転移魔法
+    - レオンとリリアが手をつないで微笑み合う
+  characters:
+    - レオン
+    - リリア
+    - マル爺
+    - クレイド
+    - アンネマリー
+    - 神
+  foreshadowing:
+    - 
+  memo:
+    - 見つめ合う
 
 - 6:
-  outline:
+  property:
     name: リリアの成長
     title:
-    summary:
-      description: リリアの訓練、リリアの告白、リリアの訓練
-      emotion: いい気分、しっとり、いい気分、クライマックス、認識
-    flag:
-      - battle
-    memo:
-      - ディープキス
-
-  detail:
-    property:
-
-    emotion:
-
-    depiction:
-
-    characters:
-
-    foreshadowing:
-
-    composition:
+  situation:
+    day: 
+    season: 初夏
+    start time: 
+    place: 
+    weather: 
+    temperature: 
+    brightness: 
+  emotion:
+    - 
+  depiction:
+    - 
+  characters:
+    - 
+  foreshadowing:
+    - 
+  memo:
+    - 
 
 - 7:
-  outline:
-    name: ルネリカの懇願
+  property:
+    name: 老婆の願い
     title: 
-    summary:
-      description: 
-      emotion: 
-    flag:
-      - 
-    memo:
-      - 
-
-  detail:
-    property:
-
-    emotion:
-
-    depiction:
-
-    characters:
-
-    foreshadowing:
-      - 魔法王は南から：「魔法王の予言は知っているか。魔法王南より来たりて邪なる神と対峙せん。魔法の深奥を目指す者として会ってみたいと思っておってな、あ、いや、年寄りの戯言だと思ってくれ」
-
-    composition:
+  situation:
+    day: 
+    season: 初夏
+    start time: 
+    place: 
+    weather: 
+    temperature: 
+    brightness: 
+  emotion:
+    - 
+  depiction:
+    - 
+  characters:
+    - 
+  foreshadowing:
+    - 
+  memo:
+    - 
 
 - 8:
-  outline:
+  property:
     name: カヴァネラ暗号
     title: 
-    summary:
-      description: 
-      emotion: 
-    flag:
-      - 
-    memo:
-      - 「リリア、リリアじゃない」「姉さ……エレノア！　友人の、エレノアよ。姉さんみたいな人だから、たまに言い間違えちゃうの」
-
-  detail:
-    property:
-
-    emotion:
-
-    depiction:
-
-    characters:
-
-    foreshadowing:
-
-    composition:
+  situation:
+    day: 
+    season: 初夏
+    start time: 
+    place: 
+    weather: 
+    temperature: 
+    brightness: 
+  emotion:
+    - 
+  depiction:
+    - 
+  characters:
+    - 
+  foreshadowing:
+    - 
+  memo:
+    - 
 
 - 9:
-  outline:
+  property:
     name: 邪神教団 1
     title: 
-    summary:
-      description: 
-      emotion: 
-    flag:
-      - 
-    memo:
-      - 邪神が復活し、邪神に挑む者が現れることが分かっているとエレノアが話す。リリアには黙っておくように言われていた（王は邪神に挑む者が魔法王だと知っているが誰にも話していない）
-      - 邪神教団の摘発に失敗して内心で落ち込むエレノア。居酒屋のカウンターでレオンとエレノアが飲んでいる。エレノアの甘えた表情。リリアは見たこともない顔だ。かなり酒が入っているようにも見える。レオンに身を預け肩に頭を寄せていた。周囲の喧噪がフェードアウトして聞きたくもないはずの声が鮮明に耳に届く。「昼間の強気はどうしたんだ。こんな落差を見せられたら男なら誰でも参っちまう」「こんなに心を任せられる強い男はあなたが初めてだわ」「頼られて｜悪《わり》ぃ気はしねぇがお互いよく知らねぇだろ」「ねぇ、私の部屋で話さない？　ここでは言えない相談があるの」
-
-  detail:
-    property:
-
-    emotion:
-
-    depiction:
-
-    characters:
-
-    foreshadowing:
-
-    composition:
+  situation:
+    day: 
+    season: 初夏
+    start time: 
+    place: 
+    weather: 
+    temperature: 
+    brightness: 
+  emotion:
+    - 
+  depiction:
+    - 
+  characters:
+    - 
+  foreshadowing:
+    - 
+  memo:
+    - 邪神が復活し、邪神に挑む者が現れることが分かっているとエレノアが話す。リリアには黙っておくように言われていた（王は邪神に挑む者が魔法王だと知っているが誰にも話していない）
+    - 邪神教団の摘発に失敗して内心で落ち込むエレノア。居酒屋のカウンターでレオンとエレノアが飲んでいる。エレノアの甘えた表情。リリアは見たこともない顔だ。かなり酒が入っているようにも見える。レオンに身を預け肩に頭を寄せていた。周囲の喧噪がフェードアウトして聞きたくもないはずの声が鮮明に耳に届く。「昼間の強気はどうしたんだ。こんな落差を見せられたら男なら誰でも参っちまう」「こんなに心を任せられる強い男はあなたが初めてだわ」「頼られて｜悪《わり》ぃ気はしねぇがお互いよく知らねぇだろ」「ねぇ、私の部屋で話さない？　ここでは言えない相談があるの」
 
 - 10:
-  outline:
+  property:
     name: 邪神教団 2
     title: 
-    summary:
-      description: 
-      emotion: 
-    flag:
-      - 
-    memo:
-      - 予言書の断片に書かれた内容は重要な情報が欠けていた。謎だ。レオンは次の水着回の後欠けた情報について閃いて謎を解く
-
-  detail:
-    property:
-
-    emotion:
-
-    depiction:
-
-    characters:
-
-    foreshadowing:
-
-    composition:
+  situation:
+    day: 
+    season: 初夏
+    start time: 
+    place: 
+    weather: 
+    temperature: 
+    brightness: 
+  emotion:
+    - 
+  depiction:
+    - 
+  characters:
+    - 
+  foreshadowing:
+    - 
+  memo:
+    - 予言書の断片に書かれた内容は重要な情報が欠けていた。謎だ。レオンは次の水着回の後欠けた情報について閃いて謎を解く
 
 - 12:
-  outline:
+  property:
     name: 水着回
-    summary:
-      description: 
-      emotion: いい気分、認識
-    flag:
-      - 
-    memo:
-      - 「リリア」「何よ」「話がある」リリアは受けて立つ心構えだった。どんな言い訳をしても絶対許さない。譲るつもりなど一片もなかった。場所は◯◯。「リリア、言っておかなきゃならないことがある」リリアは冷や水を浴びせられた心地だ。無様な言い訳を待っていた。それがどうだ。言っておかなければならないこと。レオンを睥睨しいたはずの立場が一気に崩れ去った。レオンを失う恐怖で何も言えない。思考が真っ白になる。逞しい声音が白一色の世界に響く。「俺はリリアが好きだ」一番聞きたかった言葉。だが理解が追い付かない。「リリアを恋愛対象として愛してる。俺の気持ちをリリアにだけ捧げる。他の女は目に入らねぇ。もう一度言う。俺はリリアが好きだ」リリアの世界に彩りが満ちる。天上の花々が花弁の嵐となって吹き上がった。沸き立つ魂の熱を宿した涙が止めどもなく溢れ、感情に圧倒された身体感覚は制御を手放す。「お、おいっ」レオンに抱き留められ、リリアは地上に永遠が存在することを知った。
-
-  detail:
-    property:
-
-    emotion:
-
-    depiction:
-
-    characters:
-
-    foreshadowing:
-
-    composition:
+    title: 
+  situation:
+    day: 
+    season: 初夏
+    start time: 
+    place: 
+    weather: 
+    temperature: 
+    brightness: 
+  emotion:
+    - 
+  depiction:
+    - 
+  characters:
+    - 
+  foreshadowing:
+    - 
+  memo:
+    - 「リリア」「何よ」「話がある」リリアは受けて立つ心構えだった。どんな言い訳をしても絶対許さない。譲るつもりなど一片もなかった。場所は◯◯。「リリア、言っておかなきゃならないことがある」リリアは冷や水を浴びせられた心地だ。無様な言い訳を待っていた。それがどうだ。言っておかなければならないこと。レオンを睥睨しいたはずの立場が一気に崩れ去った。レオンを失う恐怖で何も言えない。思考が真っ白になる。逞しい声音が白一色の世界に響く。「俺はリリアが好きだ」一番聞きたかった言葉。だが理解が追い付かない。「リリアを恋愛対象として愛してる。俺の気持ちをリリアにだけ捧げる。他の女は目に入らねぇ。もう一度言う。俺はリリアが好きだ」リリアの世界に彩りが満ちる。天上の花々が花弁の嵐となって吹き上がった。沸き立つ魂の熱を宿した涙が止めどもなく溢れ、感情に圧倒された身体感覚は制御を手放す。「お、おいっ」レオンに抱き留められ、リリアは地上に永遠が存在することを知った。
 
 - 13:
-  outline:
-    name: 精霊の森 1
+  property:
+    name: 精霊の森
     title: 
-    summary:
-      description: 
-      emotion: 
-    flag:
-      - 
-    memo:
-      - 幻の神殿の神域はループの結界によって守られているため◯◯の鈴がないと辿り着けない
-      - 助けた妖精の奇妙な話「なぁあんた知ってるか。魔法王は破壊神と契約するんだ」
-
-  detail:
-    property:
-
-    emotion:
-
-    depiction:
-
-    characters:
-
-    foreshadowing:
-
-    composition:
-
-- 14:
-  outline:
-    name: 精霊の森 2
-    title: 
-    summary:
-      description: 
-      emotion: 
-    flag:
-      - 
-    memo:
-      - 「この紋章はなんなんだ」「今はお教えすること能いません。それが、あの方との契約なれば」
-
-  detail:
-    property:
-
-    emotion:
-
-    depiction:
-
-    characters:
-
-    foreshadowing:
-
-    composition:
+  situation:
+    day: 
+    season: 初夏
+    start time: 
+    place: 
+    weather: 
+    temperature: 
+    brightness: 
+  emotion:
+    - 
+  depiction:
+    - 
+  characters:
+    - 
+  foreshadowing:
+    - 
+  memo:
+    - 幻の神殿の神域はループの結界によって守られているため◯◯の鈴がないと辿り着けない
+    - 助けた妖精の奇妙な話「なぁあんた知ってるか。魔法王は破壊神と契約するんだ」
+    - 「この紋章はなんなんだ」「今はお教えすること能いません。それが、あの方との契約なれば」
 
 - 15:
-  outline:
+  property:
     name: 幻の神殿
     title: 
-    summary:
-      description: 
-      emotion: 
-    flag:
-      - 
-    memo:
-      - 
-  
-  detail:
-    property:
-
-    emotion:
-
-    depiction:
-
-    characters:
-
-    foreshadowing:
-
-    composition:
+  situation:
+    day: 
+    season: 初夏
+    start time: 
+    place: 
+    weather: 
+    temperature: 
+    brightness: 
+  emotion:
+    - 
+  depiction:
+    - 
+  characters:
+    - 
+  foreshadowing:
+    - 
+  memo:
+    - 
 
 - 16:
-  outline:
+  property:
     name: 妖精の村
     title: 
-    summary:
-      description: 
-      emotion: いい気分
-    flag:
-      - ordeal
     memo:
-      - クレイドとアンネマリーが破壊神の神殿に到着する。クレイドはアンネマリーにネックレスを贈る
-
-  detail:
-    property:
-
-    emotion:
-
-    depiction:
-
-    characters:
-
-    foreshadowing:
-
-    composition:
+  situation:
+    day: 
+    season: 初夏
+    start time: 
+    place: 
+    weather: 
+    temperature: 
+    brightness: 
+  emotion:
+    - 
+  depiction:
+    - 
+  characters:
+    - 
+  foreshadowing:
+    - 
+  memo:
+    - クレイドとアンネマリーが破壊神の神殿に到着する。クレイドはアンネマリーにネックレスを贈る
+    - マル爺「この者たちを引き離すわけにはいかん。お主にそれが分からぬはずはないと思うのじゃが」
 
 - 17:
-  outline:
+  property:
     name: 破壊神の神殿 1
     title: 
-    summary:
-      description: 
-      emotion: 緊張、クライマックス、達成感
-    flag:
-      - ordeal
-    memo:
-      - 
-
-  detail:
-    property:
-
-    emotion:
-
-    depiction:
-
-    characters:
-
-    foreshadowing:
-
-    composition:
+  situation:
+    day: 
+    season: 初夏
+    start time: 
+    place: 
+    weather: 
+    temperature: 
+    brightness: 
+  emotion:
+    - 
+  depiction:
+    - 
+  characters:
+    - 
+  foreshadowing:
+    - 
+  memo:
+    - 
 
 - 18:
-  outline:
+  property:
     name: 破壊神の神殿 2
     title:
-    summary:
-      description: 
-      emoton: 
-    flag:
-      - 
-    memo:
-      - レオンはリリアを人質に取られて言葉を封じられ、腕と脚を切断される。口笛で復元の魔法を使って復活する
-
-  detail:
-    property:
-
-    emotion:
-
-    depiction:
-
-    characters:
-
-    foreshadowing:
-
-    composition:
+  situation:
+    day: 
+    season: 初夏
+    start time: 
+    place: 
+    weather: 
+    temperature: 
+    brightness: 
+  emotion:
+    - 
+  depiction:
+    - 
+  characters:
+    - 
+  foreshadowing:
+    - 
+  memo:
+    - レオンはリリアを人質に取られて言葉を封じられ、腕と脚を切断される。口笛で復元の魔法を使って復活する
 
 - 19:
-  outline:
-    name: 妖精の試練 1
+  property:
+    name: 妖精の試練
     title: 
-    summary:
-      description: 
-      emotion: 
-    flag:
-      - 
-    memo:
-      - 
-
-  detail:
-    property:
-
-    emotion:
-
-    depiction:
-
-    characters:
-
-    foreshadowing:
-
-    composition:
+  situation:
+    day: 
+    season: 初夏
+    start time: 
+    place: 
+    weather: 
+    temperature: 
+    brightness: 
+  emotion:
+    - 
+  depiction:
+    - 
+  characters:
+    - 
+  foreshadowing:
+    - 
+  memo:
+    - 3人の力を一つにするアイテムを与えられる
 
 - 20:
-  outline:
-    name: 妖精の試練 2
+  property:
+    name: 
     title: 
-    summary:
-      description: 
-      emotion: 
-    flag:
-      - 
-    memo:
-      - 3人の力を一つにするアイテムを与えられる
-
-  detail:
-    property:
-
-    emotion:
-
-    depiction:
-
-    characters:
-
-    foreshadowing:
-
-    composition:
+  situation:
+    - 
+  emotion:
+    day: 
+    season: 初夏
+    start time: 
+    place: 
+    weather: 
+    temperature: 
+    brightness: 
+  depiction:
+    - 
+  characters:
+    - 
+  foreshadowing:
+    - 
+  memo:
+    - 
 
 - 21:
-  outline:
+  property:
     name: 明かされる秘密
     title: 
-    summary:
-      description: 
-      emotion: 
-    flag:
-      - 
-    memo:
-      - 「レオン殿、リリア、手に魔力を集中させてみてくだされ」右手に紋章が現れる「それは魔法王に現れる紋章。そして仕える誓約の姫騎士にも同じ紋章が現れると言われている」
-
-  detail:
-    property:
-
-    emotion:
-
-    depiction:
-
-    characters:
-
-    foreshadowing:
-
-    composition:
+  situation:
+    day: 
+    season: 初夏
+    start time: 
+    place: 
+    weather: 
+    temperature: 
+    brightness: 
+  emotion:
+    - 
+  depiction:
+    - 
+  characters:
+    - 
+  foreshadowing:
+    - 
+  memo:
+    - 「レオン殿、リリア、手に魔力を集中させてみてくだされ」右手に紋章が現れる「それは魔法王に現れる紋章。そして仕える誓約の姫騎士にも同じ紋章が現れると言われている」
 
 - 22:
-  outline:
+  property:
     name: クレイドの越階
     title: 
-    summary:
-      description: 
-      emotion: 
-    flag:
-      - 
-    memo:
-      - 
-
-  detail:
-    property:
-
-    emotion:
-
-    depiction:
-
-    characters:
-
-    foreshadowing:
-
-    composition:
+  situation:
+    day: 
+    season: 初夏
+    start time: 
+    place: 
+    weather: 
+    temperature: 
+    brightness: 
+  emotion:
+    - 
+  depiction:
+    - 
+  characters:
+    - 
+  foreshadowing:
+    - 
+  memo:
+    - 
 
 - 23:
-  outline:
+  property:
     name: 最後の戦い
     title: 
-    summaray:
-      description: 
-      emotion: 
-    flag:
-      - 
-    memo:
-      - 怪我や体力の消耗は、怪我や体力の消耗という意味をした｜事象の真義《メルクティルヴ》が付加されることで発生する。レオンの究極の治癒魔法はこれを取り除くことで実現している。だが魂の消耗は事情が違った。人物そのものの｜事象の真義《メルクティルヴ》が希薄になっていくのだ。レオンの究極に治癒魔法の法理では対処できない
-
-  detail:
-    property:
-
-    emotion:
-
-    depiction:
-
-    characters:
-
-    foreshadowing:
-
-    composition:
+  situation:
+    day: 
+    season: 初夏
+    start time: 
+    place: 
+    weather: 
+    temperature: 
+    brightness: 
+  emotion:
+    - 
+  depiction:
+    - 
+  characters:
+    - 
+  foreshadowing:
+    - 
+  memo:
+    - 怪我や体力の消耗は、怪我や体力の消耗という意味をした｜事象の真義《メルクティルヴ》が付加されることで発生する。レオンの究極の治癒魔法はこれを取り除くことで実現している。だが魂の消耗は事情が違った。人物そのものの｜事象の真義《メルクティルヴ》が希薄になっていくのだ。レオンの究極に治癒魔法の法理では対処できない
 
 - 24:
-  outline:
+  property:
     name: 新たなる旅立ち
     title: 
-    summary:
-      description: 
-      emotion: 
-    flag:
-      - 
-    memo:
-      - 「誓約の姫騎士のことだが、俺はリリアを仕えさせる気なんてないからな」「私はレオンになら全てを捧げてもいいわ。ううん、私の全てを奪って」「リリア……、ああ、リリアは俺のものだ」この後リリアはまさに蹂躙されるのだが詳細は語るまい。
-
-  detail:
-    property:
-
-    emotion:
-
-    depiction:
-
-    characters:
-
-    foreshadowing:
-
-    composition:
-
----
-section: 2
-  - 1
-    memo:
-      - 第2部
-      - 「そのことじゃが、頼む、ファルス王国へ来てくれ、このとおりじゃ」両膝を突き手を組んで祈るように懇願する
+  situation:
+    day: 
+    season: 初夏
+    start time: 
+    place: 
+    weather: 
+    temperature: 
+    brightness: 
+  emotion:
+    - 
+  depiction:
+    - 
+  characters:
+    - 
+  foreshadowing:
+    - 
+  memo:
+    - 「誓約の姫騎士のことだが、俺はリリアを仕えさせる気なんてないからな」「私はレオンになら全てを捧げてもいいわ。ううん、私の全てを奪って」「リリア……、ああ、リリアは俺のものだ」この後リリアはまさに蹂躙されるのだが詳細は語るまい。
