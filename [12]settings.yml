@@ -1,0 +1,263 @@
+character:
+  - name: レオン
+    status:
+      characteristics:
+        inherent:
+          race: 
+          gender: 
+          age: 
+        physical:
+          outline: |
+
+          height: 
+          weight:
+          hair color:  
+          hair style: 
+          eyes: 
+          3 size:
+            bust: 
+            west: 
+            hip: 
+        personality:
+          outline: |
+
+          features:
+            - 
+            - 
+            - 
+            - 
+        history:
+          parents:
+            father: 
+            mother: 
+            grand father:
+              - 
+              - 
+            grand mother:
+              - 
+              - 
+          birth: 
+          growing environment: |
+
+          pre-independence affaiers:
+            - 
+          post-independence affaiers:
+            - 
+          contacts:
+            - name: 
+              relationship: 
+              episodes:
+                - 
+        etc:
+          trauma: |
+
+  - name: リリア
+    status:
+      characteristics:
+        inherent:
+          race: 
+          gender: 
+          age: 
+        physical:
+          outline: |
+
+          height: 
+          weight:
+          hair color:  
+          hair style: 
+          eyes: 
+          3 size:
+            bust: 
+            west: 
+            hip: 
+        personality:
+          outline: |
+
+          features:
+            - 
+            - 
+            - 
+            - 
+        history:
+          parents:
+            father: 
+            mother: 
+            grand father:
+              - 
+              - 
+            grand mother:
+              - 
+              - 
+          birth: 
+          growing environment: |
+
+          pre-independence affaiers:
+            - 
+          post-independence affaiers:
+            - 
+          contacts:
+            - name: 
+              relationship: 
+              episodes:
+                - 
+        etc:
+          trauma: |
+            幼少の頃、誤って姉に大怪我をさせてしまったことがトラウマになっていて強くなるのが怖い
+            これまでその恐怖と戦いながら強くなってきたがその先へ進むことができないでいる
+  - name: マル爺
+    status:
+      characteristics:
+        inherent:
+          race: 
+          gender: 
+          age: 
+        physical:
+          outline: |
+
+          height: 
+          weight:
+          hair color:  
+          hair style: 
+          eyes: 
+          3 size:
+            bust: 
+            west: 
+            hip: 
+        personality:
+          outline: |
+
+          features:
+            - 
+            - 
+            - 
+            - 
+        history:
+          parents:
+            father: 
+            mother: 
+            grand father:
+              - 
+              - 
+            grand mother:
+              - 
+              - 
+          birth: 
+          growing environment: |
+
+          pre-independence affaiers:
+            - 
+          post-independence affaiers:
+            - 
+          contacts:
+            - name: 
+              relationship: 
+              episodes:
+                - 
+        etc:
+          trauma: |
+
+  - name: クレイド
+    status:
+      characteristics:
+        inherent:
+          race: 
+          gender: 
+          age: 
+        physical:
+          outline: |
+
+          height: 
+          weight:
+          hair color:  
+          hair style: 
+          eyes: 
+          3 size:
+            bust: 
+            west: 
+            hip: 
+        personality:
+          outline: |
+
+          features:
+            - 
+            - 
+            - 
+            - 
+        history:
+          parents:
+            father: 
+            mother: 
+            grand father:
+              - 
+              - 
+            grand mother:
+              - 
+              - 
+          birth: 
+          growing environment: |
+
+          pre-independence affaiers:
+            - 
+          post-independence affaiers:
+            - 
+          contacts:
+            - name: 
+              relationship: 
+              episodes:
+                - 
+        etc:
+          trauma: |
+
+  - name: アンネマリー
+    status:
+      characteristics:
+        inherent:
+          race: 
+          gender: 
+          age: 
+        physical:
+          outline: |
+
+          height: 
+          weight:
+          hair color:  
+          hair style: 
+          eyes: 
+          3 size:
+            bust: 
+            west: 
+            hip: 
+        personality:
+          outline: |
+
+          features:
+            - 
+            - 
+            - 
+            - 
+        history:
+          parents:
+            father: 
+            mother: 
+            grand father:
+              - 
+              - 
+            grand mother:
+              - 
+              - 
+          birth: 
+          growing environment: |
+
+          pre-independence affaiers:
+            - 
+          post-independence affaiers:
+            - 
+          contacts:
+            - name: 
+              relationship: 
+              episodes:
+                - 
+        etc:
+          trauma: |
+
+
