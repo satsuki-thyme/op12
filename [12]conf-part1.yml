@@ -1,6 +1,7 @@
 purpose:
   - character: レオン
-    that: 破壊神と契約して邪神を倒す
+    that:
+      - 破壊神と契約して邪神を倒す
 
   - character: リリア
     that:
@@ -8,7 +9,16 @@ purpose:
       - 強くなる
 
   - character: マル爺
-    that: レオンとリリアを引き合わせて邪神を倒させる
+    that:
+      - レオンとリリアを引き合わせて邪神を倒させる
+
+  - character: クレイド
+    that:
+      -  
+
+  - character: アンネマリー
+    that:
+      - 
 
 conflict:
   - character: レオン
@@ -26,3 +36,11 @@ conflict:
   - character: マル爺
     that: レオンとリリアの仲
       - 祖国ファルスの姫を守るためにはレオンとリリアに邪神を討伐してもらわねばならない
+
+  - character: クレイド
+    that:
+      -  
+
+  - character: アンネマリー
+    that:
+      - 

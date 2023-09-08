@@ -1,6 +1,6 @@
 character:
   - name: レオン
-    item:
+    items:
       - 王子であること
       - 魔法王の生まれ変わりであること
       - 破壊神と契約したい
@@ -10,17 +10,17 @@ character:
       - 女性の色香が怖い
       - セックスできない
   - name: リリア
-    item:
+    items:
       - 王女であること
       - ラーラの生まれ変わりであること
   - name: マル爺
-    item:
+    items:
       - 
   - name: クレイド
-    item:
+    items:
       - 
   - name: アンネマリー
-    item:
+    items:
       - 
 things:
   - 
