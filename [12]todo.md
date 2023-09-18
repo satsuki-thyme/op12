@@ -9,4 +9,4 @@
 - [ ] [12]memo.yml
 
 ## 次やること
-- [12]thinking-notes-002.md
+- [12]plot-part1.yml

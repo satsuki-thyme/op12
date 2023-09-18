@@ -149,7 +149,7 @@ individual cases:
     1:
       description:
         - キャラクター紹介
-        - クレイド、アンネマリーと敵対する
+        - クレイド、エレクトラと敵対する
       plot point 1:
         description:
           - レオンと恋に落ちる
@@ -159,7 +159,7 @@ individual cases:
           - トラウマ => 幼少期に誤って姉を傷付けてしまったことがトラウマとなり強くなるのが恐ろしく今あるレベルより高いその先へ行くことができない
       mid point:
         description:
-          - アンネマリーを倒す
+          - エレクトラを倒す
           - レオンとセックスする
     3:
       description:
@@ -226,9 +226,9 @@ individual cases:
         - 
 
   #
-  # アンネマリー
+  # エレクトラ
   #
-  - character: アンネマリー
+  - character: エレクトラ
     1:
       description:
         - キャラクター紹介
