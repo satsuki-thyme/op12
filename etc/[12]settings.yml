@@ -154,6 +154,57 @@ character:
       etc:
         trauma: |
 
+  - name: フェリエラ
+    characteristics:
+      inherent:
+        race: 
+        gender: 
+        age: 
+      physical:
+        outline: |
+
+        height: 
+        weight:
+        hair color:  
+        hair style: 
+        eyes: 
+        3 size:
+          bust: 
+          west: 
+          hip: 
+      personality:
+        outline: |
+
+        features:
+          - 
+          - 
+          - 
+          - 
+      history:
+        parents:
+          father: 
+          mother: 
+          grand father:
+            - 
+            - 
+          grand mother:
+            - 
+            - 
+        birth: 
+        growing environment: |
+
+        pre-independence affaiers:
+          - 
+        post-independence affaiers:
+          - 
+        contacts:
+          - name: 
+            relationship: 
+            episodes:
+              - 
+      etc:
+        trauma: |
+
   - name: クレイド
     characteristics:
       inherent:
