@@ -1,6 +1,31 @@
 character:
+  - index:
+    - レオン
+    - リリア
+    - マル爺
+    - フェリエラ
+    - クレイド
+    - ローゼリア
+    - テレスティ
+
+
+  ##         #######     ######     ###    ## 
+  ##         ##         ##    ##    ####   ## 
+  ##         #####      ##    ##    ## ##  ## 
+  ##         ##         ##    ##    ##  ## ## 
+  #######    #######     ######     ##   #### 
+
+
   - name: レオン
     characteristics:
+      name:
+        formal name: 
+        nick name: 
+        popular name: 
+        origin of first name: 
+        origin of family name: 
+        origin of nick name: 
+        origin of popupar name: 
       inherent:
         race: 
         gender: 
@@ -50,8 +75,24 @@ character:
       etc:
         trauma: |
 
+
+  ##         ##    ##         ##    ##     #####  
+  ##         ##    ##          ##  ##     ##   ## 
+  ##         ##    ##           ####      ####### 
+  ##         ##    ##            ##       ##   ## 
+  #######    ##    #######       ##       ##   ## 
+
+
   - name: リリア
     characteristics:
+      name:
+        formal name: 
+        nick name: 
+        popular name: 
+        origin of first name: 
+        origin of family name: 
+        origin of nick name: 
+        origin of popupar name: 
       inherent:
         race: 
         gender: 
@@ -103,8 +144,24 @@ character:
           幼少の頃、誤って姉に大怪我をさせてしまったことがトラウマになっていて強くなるのが怖い
           これまでその恐怖と戦いながら強くなってきたがその先へ進むことができないでいる
 
+
+  ###    ###     #####     ######     ########    ##    ###    ##    ##    ##    ####### 
+  ####  ####    ##   ##    ##   ##       ##       ##    ####   ##    ##    ##    ##      
+  ## #### ##    #######    ######        ##       ##    ## ##  ##    ##    ##    ####### 
+  ##  ##  ##    ##   ##    ##   ##       ##       ##    ##  ## ##    ##    ##         ## 
+  ##      ##    ##   ##    ##   ##       ##       ##    ##   ####     ######     ####### 
+
+
   - name: マル爺
     characteristics:
+      name:
+        formal name: 
+        nick name: 
+        popular name: 
+        origin of first name: 
+        origin of family name: 
+        origin of nick name: 
+        origin of popupar name: 
       inherent:
         race: 
         gender: 
@@ -153,9 +210,25 @@ character:
               - 
       etc:
         trauma: |
+
+
+  #######    #######    ##         ##    #######    ######      #####  
+  ##         ##         ##         ##    ##         ##   ##    ##   ## 
+  #####      #####      ##         ##    #####      ######     ####### 
+  ##         ##         ##         ##    ##         ##   ##    ##   ## 
+  ##         #######    #######    ##    #######    ##   ##    ##   ## 
+
 
   - name: フェリエラ
     characteristics:
+      name:
+        formal name: 
+        nick name: 
+        popular name: 
+        origin of first name: 
+        origin of family name: 
+        origin of nick name: 
+        origin of popupar name: 
       inherent:
         race: 
         gender: 
@@ -204,9 +277,25 @@ character:
               - 
       etc:
         trauma: |
+
+
+   ######    ##         #######    ##    ##    ######  
+  ##         ##         ##          ##  ##     ##   ## 
+  ##         ##         #####        ####      ##   ## 
+  ##         ##         ##            ##       ##   ## 
+   ######    #######    #######       ##       ######  
+
 
   - name: クレイド
     characteristics:
+      name:
+        formal name: 
+        nick name: 
+        popular name: 
+        origin of first name: 
+        origin of family name: 
+        origin of nick name: 
+        origin of popupar name: 
       inherent:
         race: 
         gender: 
@@ -255,9 +344,25 @@ character:
               - 
       etc:
         trauma: |
+
+
+  ######      ######     #######    #######    ##         ##    ##     #####  
+  ##   ##    ##    ##    ##         ##         ##          ##  ##     ##   ## 
+  ######     ##    ##    #######    #####      ##           ####      ####### 
+  ##   ##    ##    ##         ##    ##         ##            ##       ##   ## 
+  ##   ##     ######     #######    #######    #######       ##       ##   ## 
+
 
   - name: ローゼリア
     characteristics:
+      name:
+        formal name: 
+        nick name: 
+        popular name: 
+        origin of first name: 
+        origin of family name: 
+        origin of nick name: 
+        origin of popupar name: 
       inherent:
         race: 
         gender: 
@@ -308,3 +413,68 @@ character:
         trauma: |
 
 
+  ########    ##   ##    #######    ######     #######    #######    ########    ##    ## 
+     ##       ##   ##    ##         ##   ##    ##         ##            ##        ##  ##  
+     ##       #######    #####      ######     #####      #######       ##         ####   
+     ##       ##   ##    ##         ##   ##    ##              ##       ##          ##    
+     ##       ##   ##    #######    ##   ##    #######    #######       ##          ##    
+
+
+  - name: テレスティ
+    characteristics:
+      name:
+        formal name: 
+        nick name: 
+        popular name: 
+        origin of first name: 
+        origin of family name: 
+        origin of nick name: 
+        origin of popupar name: 
+      inherent:
+        race: 
+        gender: 
+        age: 
+      physical:
+        outline: |
+
+        height: 
+        weight:
+        hair color:  
+        hair style: 
+        eyes: 
+        3 size:
+          bust: 
+          west: 
+          hip: 
+      personality:
+        outline: |
+
+        features:
+          - 
+          - 
+          - 
+          - 
+      history:
+        parents:
+          father: 
+          mother: 
+          grand father:
+            - 
+            - 
+          grand mother:
+            - 
+            - 
+        birth: 
+        growing environment: |
+
+        pre-independence affaiers:
+          - 
+        post-independence affaiers:
+          - 
+        contacts:
+          - name: 
+            relationship: 
+            episodes:
+              - 
+      etc:
+        trauma: |
