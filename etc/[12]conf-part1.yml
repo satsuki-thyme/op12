@@ -5,29 +5,35 @@ character:
       - 前向きで欲求に素直 => 欲求を実現する力
     desire:
       - 破壊神と契約する
-    conflict: # desire に対する衝突
+    conflict with desire:
       - 破壊神との契約を阻む高い壁 => クレイド
-    harmony: # charm が調和するポイント
-      - 挑戦するに値する壁 => クレイドとヴェトラヤル
-    right choice:
-      - 
-    wrong choice:
+    harmony with charm:
+      - 挑戦するに値する壁 => クレイドが何度もパワーアップして襲い掛かってくる
+      - パートナーを求める => リリア
+    right point:
+      - 挑戦し続けるところ
+      - リリアの人格と自立心を尊重してすべてを愛したこと
+    wrong point:
       - 
 
   - name: リリア
     charm:
-      - 自立しながらも相手に頼るバランス => _心くすぐる女の子の態度_
+      - 自立しながらも相手に頼るバランス => 心くすぐる女の子の態度
+      - 元気がある一方で慎ましい => 心くすぐる女の子の態度
     desire:
       - 王国を出て旅をする
       - 強くなる
-    conflict: # desire に対する衝突
+    conflict with desire:
       - 自立を阻害して王国に縛り付ける力 => 父王
       - リリアの強さを否定する存在 => ローゼリア
-    harmony: # charm が調和するポイント
-      - レオンに頼る、分を弁えて謙虚な態度 => 強くなりたい
-    right choice:
-      - 
-    wrong choice:
+    harmony with charm:
+      - 自らの意思でレオンに頼る => 自立、信頼
+      - 普段の振る舞いが明るい => 元気がある
+      - レオンに対する謙虚な態度 => 慎ましい
+    right point:
+      - 自立しているところ
+      - レオンを尊重しつつ自分を失わないこと
+    wrong point:
       - 
 
   - name: マル爺
@@ -35,14 +41,15 @@ character:
       - 重厚な権威を象徴するような_威厳_
     desire:
       - レオンとリリアを引き合わせてつなぎ止める
-    conflict: # desire に対する衝突
-      - レオンとリリアの生存と仲
         - 祖国ファルスの姫を守るためにはレオンとリリアには生きてファルスの地を踏んでもらわねばならない
-    harmony: # charm が調和するポイント
-      - レオンの凄さを認める権威
-    right choice:
+    conflict with desire:
+      - レオンとリリアの生存 => クレイドとヴェトラヤル
+      - レオンとリリアの仲 => フェリエラの存在
+    harmony with charm:
+      - 会話の重しになるといいな
+    right point:
       - 
-    wrong choice:
+    wrong point:
       - 
 
   - name: フェリエラ
@@ -55,60 +62,66 @@ character:
         - レオンに近づきたい、レオンが気を許す関係になりたい
       - 実際の欲求
         - レオンを殺害したい
-    conflict: # desire に対する衝突
+    conflict with desire:
       - レオンは女っぽさが怖い
       - レオンはリリアが好き
-    harmony: # charm が調和するポイント
-      - レオンから信頼される <= _忠誠的な態度_
-    right choice:
+    harmony with charm:
+      - リリアの元気さに対するアンチテーゼ
+    right point:
       - 
-    wrong choice:
+    wrong point:
       - 
 
   - name: クレイド
     charm:
       - 欲求に素直で挑戦し続けるところ => レオンと同じ
+      - ヴェトラヤルに対する忠誠の態度 => マゾヒスティック
     desire:
       - 表向きの欲求
-        - 邪神の神格を奪って神になり世界を支配する
-      - 実際の欲求
         - 邪神を復活させて世界を無に還す
-    conflict: # desire に対する衝突
+      - 実際の欲求
+        - 邪神の神格を奪って神になり世界を支配する
+    conflict with desire:
       - レオン
         - レオンは世界の消滅もクレイドの世界支配も許さない
-    harmony: # charm が調和するポイント
+    harmony with charm:
       - 好き放題にやっているところ
-    right choice:
+    right point:
       - 
-    wrong choice:
-      - 
+    wrong point:
+      - 欲望が身の丈に合っておらず、また邪悪なところ
+      - リリアを支配しようとしたところ
 
   - name: ローゼリア
     charm:
-      - 
+      - リリアの上位互換的な存在
+        - 自立しながらも相手に頼るバランス => 心くすぐる女の子の態度
+        - 元気がある一方で慎ましい => 心くすぐる女の子の態度
     desire:
       - クレイドの愛が欲しい
-    conflict: # desire に対する衝突
+    conflict with desire:
+      - クレイドは女好きでリリアに熱を上げている
+    harmony with charm:
+      - リリアの見られない魅力を見せる
+    right point:
       - 
-    harmony: # charm が調和するポイント
-      - 
-    right choice:
-      - 
-    wrong choice:
-      - 
+    wrong point:
+      - 自立せずクレイドに縋ったこと
+      - クレイドという悪を愛してしまったところ
 
   - name: ヴェトラヤル
     charm:
-      - 
+      - 大人の色香
+      - 安定してサディスティック、支配的
     desire:
+      - アルメクトが支配する世界を無に還したい
+    conflict with desire:
+      - レオンの存在
+    harmony with charm:
+      - 物語に闇の重さを加える
+    right point:
       - 
-    conflict: # desire に対する衝突
-      - 
-    harmony: # charm が調和するポイント
-      - 
-    right choice:
-      - 
-    wrong choice:
+    wrong point:
       - 
 
   - name: テレスティ
@@ -116,37 +129,23 @@ character:
       - 
     desire:
       - 
-    conflict: # desire に対する衝突
+    conflict with desire:
       - 
-    harmony: # charm が調和するポイント
+    harmony with charm:
       - 
-    right choice:
+    right point:
       - 
-    wrong choice:
+    wrong point:
       - 
 
 memo:
   - object: 人生と恋愛模様
     content: |
-      リリアは自立していながら愛する者に頼ることもできるバランスの取れた女性の魅力がある。レオンはその魅力を含めたリリアのすべてを愛し共に幸福を得たいと欲した。クレイドはリリアの魅力に取り憑かれ支配したい欲求を持った。クレイドは元々ローゼリアを恋愛対象として見ていない。ローゼリアはクレイドの野心と孤高の在り方に惹かれている。ローゼリアは自分一人で立つことをせずクレイドに依存しようとする。クレイドはそれを軽蔑していた。ローゼリアの間違いは自立しようとしないところだ。
-    notes:
-      - item:
-        - name: レオン
-          correctness:
-            - 挑戦し続けるところ
-            - リリアの人格と自立心を尊重してすべてを愛したこと
-
-        - name: リリア
-          correctness:
-            - 自立しているところ
-            - レオンを尊重しつつ自分を失わないこと
-
-        - name: クレイド
-          fault:
-            - 欲望が身の丈に合っておらず、また邪悪なところ
-            - リリアを支配しようとしたところ
-
-        - name: ローゼリア
-          fault:
-            - 自立していないところ
-            - クレイドに依存しているところ
+      リリアは自立していながら愛する者に頼ることもできるバランスの取れた女性の魅力がある
+      レオンはその魅力を含めたリリアのすべてを愛し共に幸福を得たいと欲した
+      クレイドはリリアの魅力に取り憑かれ支配したい欲求を持った
+      クレイドは元々ローゼリアを恋愛対象として見ていない
+      ローゼリアはクレイドの野心と孤高の在り方に惹かれている
+      ローゼリアは自分一人で立つことをせずクレイドに依存しようとする
+      クレイドはそれを軽蔑していた
+      ローゼリアの間違いは自立しようとしないところだ

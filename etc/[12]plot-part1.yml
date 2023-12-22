@@ -26,7 +26,7 @@ overview:
 
 
   1:
-    description:
+    gist:
       - レオンが邪神教による呪いを受けた少女を助ける need to think
       - マル爺がレオンに◯◯の山中へ向かえと言う
       - レオンは破壊神の神殿を求めて探索する
@@ -116,13 +116,13 @@ overview:
 
 
   plot point 1:
-    description:
+    gist:
       - レオンがクレイドと敵対した際に破壊神と契約しようとしていることを尋ねられ認める
         - クレイドはレオンを知っている => foreshadowing クレイド
         - レオンとクレイドは実力行使しない（邪神に呼ばれてクレイドが引き下がる）
 
 
-    #####      ######    ########             ####### 
+   #####      ######    ########             ####### 
   ##   ##    ##            ##                     ## 
   #######    ##            ##       #####    ####### 
   ##   ##    ##            ##                ##      
@@ -130,7 +130,7 @@ overview:
 
 
   2:
-    description:
+    gist:
       - レオンとリリアとマル爺が会う
       - レオンたちは行動を共にする話が出るがリリアが保留する
       - リリアは城に戻る => information リリアは王女だった
@@ -196,7 +196,7 @@ overview:
 
 
   mid point:
-    description:
+    gist:
       - レオンが自ら破壊神の係留神珠を破壊する
       - クレイドが邪神復活の計画を話す
       - リリアがレオンを殺害させられる
@@ -213,7 +213,7 @@ overview:
 
 
   3:
-    description:
+    gist:
       - __第3幕の逆境とは__
       - 破壊神は邪神を封印するための要として自らをも封印していた => 破壊神の封印を解いたことで邪神の力が強くなった
       - クレイドが復活する
@@ -233,7 +233,7 @@ overview:
 
 
   plot point 2:
-    description:
+    gist:
       - フェリエラが邪神の姿になってクレイドを従える => 邪神であることを宣言する
       - レオンがフェリエラと戦う決意をする
 
@@ -246,7 +246,7 @@ overview:
 
 
   4:
-    description:
+    gist:
       - レオンが神になったクレイドを倒す
 
 
@@ -258,7 +258,7 @@ overview:
 
 
   ending:
-    description:
+    gist:
       - 王がリリアの出奔を認める
       - 3人で旅立つ
 
@@ -290,29 +290,29 @@ individual cases:
 
   - character: レオン
     1:
-      description:
+      gist:
         - キャラクター紹介
       plot point 1:
-        description:
+        gist:
           - クレイドと敵対する
           - リリアと恋に落ちる
     2:
-      description:
+      gist:
         - 破壊神の神殿を探す
       mid point:
-        description:
+        gist:
           - 自ら係留神珠を破壊する <= __試練__
           - クレイドを倒す
           - リリアとセックスする <= __トラウマを乗り越える__
           - 破壊神と契約する
     3:
-      description:
+      gist:
         - 邪神を追う
       plot point 2:
-        description:
+        gist:
           - フェリエラを倒す決意をする <= __試練__
     4:
-      description:
+      gist:
         - クレイドに異空間に閉じ込められる => 魔法を破るための何かを事前に得ている（リリアとのセックス？）
         - 神クレイドを倒す <= __試練__
         - 旅立ち
@@ -327,29 +327,29 @@ individual cases:
 
   - character: リリア
     1:
-      description:
+      gist:
         - キャラクター紹介
         - クレイド、ローゼリアと敵対する
       plot point 1:
-        description:
+        gist:
           - レオンと恋に落ちる
     2:
-      description:
+      gist:
         - __トラウマ__を乗り越えて強くなる
           - トラウマ => 幼少期に誤って姉を傷付けてしまったことがトラウマとなり強くなるのが恐ろしく今あるレベルより高いその先へ行くことができない
       mid point:
-        description:
+        gist:
           - ローゼリアを倒す <= __試練__
           - レオンとセックスする
     3:
-      description:
+      gist:
         - リリアはもっと強くなりたい => もう一つの試練を乗り越える
           - クレイドに立ち向かえるほど強くなる
       plot point 2:
-        description:
+        gist:
           - フェリエラ打倒に悩むレオンを支える
     4:
-      description:
+      gist:
         - レオンた異空間に閉じ込められている間にクレイドと対峙する
 
 
@@ -362,26 +362,26 @@ individual cases:
 
   - character: マル爺
     1:
-      description:
+      gist:
         - キャラクター紹介
       plot point 1:
-        description:
+        gist:
           - なし
     2:
-      description:
+      gist:
         - レオンとリリアの仲を取り持つのに苦労する
         - トラウマが原因で破壊神の封印された場所を占術で割り出すことができないことが読者に伝わる
       mid point:
-        description:
+        gist:
           - なし
     3:
-      description:
+      gist:
         - トラウマがレオンたちに明らかになる
       plot point 2:
-        description:
+        gist:
           - 試練を乗り越えて邪神復活の地を占う
     4:
-      description:
+      gist:
         - クレイドを倒す
   
 
@@ -394,25 +394,25 @@ individual cases:
 
   - character: フェリエラ
     1:
-      description:
+      gist:
         - キャラクター紹介
       plot point 1:
-        description:
+        gist:
           - なし
     2:
-      description:
+      gist:
         - 邪神教との戦いの中で命を懸けて__何か__をする
       mid point:
-        description:
+        gist:
           - なし
     3:
-      description:
+      gist:
         - 
       plot point 2:
-        description:
+        gist:
           - 
     4:
-      description:
+      gist:
         - 
   
 
@@ -424,26 +424,26 @@ individual cases:
 
   - character: クレイド
     1:
-      description:
+      gist:
         - キャラクター紹介
         - リリアと敵対する
       plot point 1:
-        description:
+        gist:
           - レオンと敵対する
     2:
-      description:
+      gist:
         - 
       mid point:
-        description:
+        gist:
           - 
     3:
-      description:
+      gist:
         - 
       plot point 2:
-        description:
+        gist:
           - レオンに倒される
     4:
-      description:
+      gist:
         - 
 
 
@@ -456,24 +456,24 @@ individual cases:
 
   - character: ローゼリア
     1:
-      description:
+      gist:
         - キャラクター紹介
         - リリアと敵対する
       plot point 1:
-        description:
+        gist:
           - 
     2:
-      description:
+      gist:
         - 
       mid point:
-        description:
+        gist:
           - リリアに倒される
     3:
-      description:
+      gist:
         - 
       plot point 2:
-        description:
+        gist:
           - 
     4:
-      description:
+      gist:
         - 

@@ -1,4 +1,4 @@
-character:
+characters:
   - index:
     - レオン
     - リリア
@@ -50,6 +50,10 @@ character:
           - 
           - 
           - 
+        trauma: |
+
+      status:
+        job: 
       history:
         parents:
           father: 
@@ -63,17 +67,13 @@ character:
         birth: 
         growing environment: |
 
-        pre-independence affaiers:
-          - 
-        post-independence affaiers:
-          - 
         contacts:
           - name: 
             relationship: 
             episodes:
               - 
       etc:
-        trauma: |
+
 
 
   ##         ##    ##         ##    ##     #####  
@@ -117,6 +117,11 @@ character:
           - 
           - 
           - 
+        trauma: |
+          幼少の頃、誤って姉に大怪我をさせてしまったことがトラウマになっていて強くなるのが怖い
+          これまでその恐怖と戦いながら強くなってきたがその先へ進むことができないでいる
+      status:
+        job: 
       history:
         parents:
           father: 
@@ -130,19 +135,13 @@ character:
         birth: 
         growing environment: |
 
-        pre-independence affaiers:
-          - 
-        post-independence affaiers:
-          - 
         contacts:
           - name: 
             relationship: 
             episodes:
               - 
       etc:
-        trauma: |
-          幼少の頃、誤って姉に大怪我をさせてしまったことがトラウマになっていて強くなるのが怖い
-          これまでその恐怖と戦いながら強くなってきたがその先へ進むことができないでいる
+
 
 
   ###    ###     #####     ######     ########    ##    ###    ##    ##    ##    ####### 
@@ -186,6 +185,10 @@ character:
           - 
           - 
           - 
+        trauma: |
+
+      status:
+        job: 
       history:
         parents:
           father: 
@@ -199,17 +202,13 @@ character:
         birth: 
         growing environment: |
 
-        pre-independence affaiers:
-          - 
-        post-independence affaiers:
-          - 
         contacts:
           - name: 
             relationship: 
             episodes:
               - 
       etc:
-        trauma: |
+
 
 
   #######    #######    ##         ##    #######    ######      #####  
@@ -253,6 +252,10 @@ character:
           - 
           - 
           - 
+        trauma: |
+
+      status:
+        job: 
       history:
         parents:
           father: 
@@ -266,17 +269,13 @@ character:
         birth: 
         growing environment: |
 
-        pre-independence affaiers:
-          - 
-        post-independence affaiers:
-          - 
         contacts:
           - name: 
             relationship: 
             episodes:
               - 
       etc:
-        trauma: |
+
 
 
    ######    ##         #######    ##    ##    ######  
@@ -320,6 +319,10 @@ character:
           - 
           - 
           - 
+        trauma: |
+
+      status:
+        job: 
       history:
         parents:
           father: 
@@ -333,17 +336,13 @@ character:
         birth: 
         growing environment: |
 
-        pre-independence affaiers:
-          - 
-        post-independence affaiers:
-          - 
         contacts:
           - name: 
             relationship: 
             episodes:
               - 
       etc:
-        trauma: |
+
 
 
   ######      ######     #######    #######    ##         ##    ##     #####  
@@ -387,6 +386,10 @@ character:
           - 
           - 
           - 
+        trauma: |
+
+      status:
+        job: 
       history:
         parents:
           father: 
@@ -400,17 +403,13 @@ character:
         birth: 
         growing environment: |
 
-        pre-independence affaiers:
-          - 
-        post-independence affaiers:
-          - 
         contacts:
           - name: 
             relationship: 
             episodes:
               - 
       etc:
-        trauma: |
+
 
 
   ########    ##   ##    #######    ######     #######    #######    ########    ##    ## 
@@ -454,6 +453,10 @@ character:
           - 
           - 
           - 
+        trauma: |
+
+      status:
+        job: 
       history:
         parents:
           father: 
@@ -467,14 +470,10 @@ character:
         birth: 
         growing environment: |
 
-        pre-independence affaiers:
-          - 
-        post-independence affaiers:
-          - 
         contacts:
           - name: 
             relationship: 
             episodes:
               - 
       etc:
-        trauma: |
+
