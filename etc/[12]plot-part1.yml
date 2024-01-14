@@ -135,8 +135,7 @@ overview:
             - .クレイドが操られているような描写
             - .クレイドの赤い瞳
           - リリアがドラゴンを倒す
-          - リリアがローゼリアに敗北して魔力器官を奪われる => character theme
-                                                       => ordeal
+          - リリアがローゼリアに敗北して魔力器官を奪われる => ordeal => character theme
           - レオンとクレイドが邂逅する
             - .クレイドがレオンを知っていること
             - .レオンはクレイドと対立する => ordeal
@@ -224,12 +223,13 @@ overview:
           マル爺
         gist:
           - 酔客の会話
-            - .ストラン人のこと
+            - .ストラン人のこと => foreshadowing
           - レオンとリリアとマル爺が揃って旅の話になる
           - レオンがアルメクトに話しかけられて恐慌を来す
-            - .レオンはアルメクトが怖い
+            - .レオンはアルメクトが怖い => foreshadowing
           - 情報を売ってやるという男が現れマル爺が挑戦する => ordeal
             - .マル爺の使命 => character theme
+            - .幸運と未来の神リルフレムティードに祈り挑戦後に倒れる => ordeal => foreshadowing
           - リリアは少し時間が欲しいと言って別れる
 
       eps 4:
@@ -254,24 +254,32 @@ overview:
         ordeal:
           リリア
         gist:
+          - クレイドが悪夢を見る
+            - .クレイドの過去 => past
+            - .レオンへの劣等感
+              - .レオンらしき人物に関する情報 => past
+            - .額の傷 => foreshadowing
+            - .クレイドのトラウマ
+            - .クレイドが復讐に燃える
           - クレイドとヴェトラヤルの会話
-            - .破壊神と契約せんとするものは生かしておけぬ
+            - .破壊神と契約せんとするものは生かしておけぬ => foreshadowing
           - レオンとマル爺がリリアと再会して一緒に行動することになる
           - 神◯◯の神殿で_フェリエラ_と出会い行動を共にすることになる
             - .神◯◯の神殿は戦闘職でないフェリエラでも一人で来ることができる
             - .フェリエラが破壊神の巫女であること
             - .フェリエラは戦闘職でないこと
-          - クレイドが現れて戦闘になる
-            - .フェリエラはフードに顔を隠す => foreshadowing
-            - .クレイドがフェリエラを見て訝しげにする => foreshadowing
-          - リリアはローゼリアと戦って劣勢となる => ordeal
-
       eps 6:
         sub title: レウネの黒柱 2
         ordeal:
 
         gist:
-          - レオンはクレイドと戦う => ordeal
+          - クレイドが現れて戦闘になる
+            - .フェリエラはフードに顔を隠す => foreshadowing
+            - .クレイドがフェリエラを見て訝しげにする => foreshadowing
+          - リリアはローゼリアと戦って劣勢となる => ordeal
+          - レオンはクレイドと戦う
+            - .クレイドとの戦闘中に過去を思い出す => past
+              - .城内、跪く臣下、水の魔法の話、クレイドの呪うような瞳
             - .ランダム転移魔法
           - レウネの黒柱を手に入れる
             - .レオンとリリアが手をつなぐ => love theme
@@ -283,18 +291,12 @@ overview:
           リリア
           フェリエラ
         gist:
-          - クレイドが悪夢を見る
-            - .クレイドの過去
-            - .レオンへの劣等感
-            - .額の傷 => foreshadowing
-            - .クレイドのトラウマ
-          - クレイドが復讐に燃える
           - 幻影闘技場
             - .リリアはレオンと戦って強くなる => ordeal
           - 野営する
             - .フェリエラは料理が得意 => ordeal
             - .フェリエラに動物が寄ってくる => ordeal
-            - .リリアの過去 => ordeal
+            - .リリアの過去 => past => love theme
 
       eps 8:
         sub title: 老婆の願い
@@ -304,31 +306,76 @@ overview:
           フェリエラ
         gist:
           - レオンが命を懸けてリリアを幻惑から解放する => ordeal
-          - マル爺が試練に挑む
-          - フェリエラが何かする
+          - マル爺がホムンクルスの命を吹き返させる => ordeal
+            - .生と死の神リーヴォドードの力を得るために信奉する運命と予言の神シェブロフェティエを介してアクセスし成就後に倒れる
+          - フェリエラがマル爺を癒やす => ordeal
+            - .詳細は thinking-notes/[12]thinking-notes-012.md を参照
+          - 老婆からカバネラ暗号のヒントをもらう
 
       eps 9:
-        sub title: 
+        sub title: カバネラ暗号
         ordeal:
 
         gist:
+          - テレスティと出会う
+            - .カバネラ暗号のヒントをもらう
+          - 誓約の姫騎士ラーラの話 => foreshadowing
+          - カバネラ暗号の
+          - レオンとフェリエラが会話している様子を見てリリアが嫉妬する => love theme
+            - .レオンとフェリエラは接近している
+            - .レオンはまんざらでもない
           - 
 
       eps 10:
-        sub title: 
+        sub title: 邪心教団 1
         ordeal:
 
         gist:
           - 
 
       eps 11:
+        sub title: 邪心教団 2
+        ordeal:
+
+        gist:
+          - 
+
+      eps 12:
+        sub title: 
+        ordeal:
+
+        gist:
+          - 
+
+      eps 13:
+        sub title: 水着回
+        ordeal:
+
+        gist:
+          - 
+
+      eps 14:
+        sub title: 
+        ordeal:
+
+        gist:
+          - 
+
+      eps 15:
+        sub title: 
+        ordeal:
+
+        gist:
+          - 
+
+      eps 16:
         sub title: 破壊神の神殿 1
         ordeal:
           リリア
         gist:
           - 
 
-      eps 12:
+      eps 17:
         sub title: 破壊神の神殿 2
         ordeal:
           レオン
@@ -365,42 +412,28 @@ overview:
         - クレイドは邪神の封印が弱くなったことで力を増している
         - マル爺が試練を乗り越えて邪神復活の地を割り出す
 
-      eps 13:
-        sub title: 
-        ordeal:
-
-        gist:
-          - 
-
-      eps 14:
-        sub title: 
-        ordeal:
-
-        gist:
-          - 
-
-      eps 15:
-        sub title: 
-        ordeal:
-
-        gist:
-          - 
-
-      eps 16:
-        sub title: 
-        ordeal:
-
-        gist:
-          - 
-
-      eps 17:
-        sub title: 
-        ordeal:
-
-        gist:
-          - 
-
       eps 18:
+        sub title: 
+        ordeal:
+
+        gist:
+          - 
+
+      eps 19:
+        sub title: 
+        ordeal:
+
+        gist:
+          - 
+
+      eps 21:
+        sub title: 
+        ordeal:
+
+        gist:
+          - 
+
+      eps 11:
         sub title: 
         ordeal:
 
@@ -427,27 +460,6 @@ overview:
         - レオンが神になったクレイドを倒す
 
     componet:
-      eps 19:
-        sub title: 
-        ordeal:
-
-        gist:
-          - 
-
-      eps 21:
-        sub title: 
-        ordeal:
-
-        gist:
-          - 
-
-      eps 11:
-        sub title: 
-        ordeal:
-
-        gist:
-          - 
-
       eps 22:
         sub title: 
         ordeal:

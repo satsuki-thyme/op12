@@ -25,3 +25,4 @@
 - thinking-notes/[12]thinking-notes-009.md: レオンの女性へのトラウマが性格にどう影響しているか
 - thinking-notes/[12]thinking-notes-010.md: マル爺の試練
 - thinking-notes/[12]thinking-notes-011.md: フェリエラの試練
+- thinking-notes/[12]thinking-notes-012.md: 老婆の願いでの試練
