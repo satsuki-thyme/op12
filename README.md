@@ -3,7 +3,7 @@
 ### 本文
 - text/[12]001.txt: タイトル未定
 
-### etc.
+### その他
 - etc/![12]todo.md:                 すること
 - etc/[12]plan-chapter-1.yml:       第 1 章 - 計画
 - etc/[12]logline-chapter-1.yml:    第 1 章 - ログライン
