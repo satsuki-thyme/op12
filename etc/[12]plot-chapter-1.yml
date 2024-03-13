@@ -272,7 +272,7 @@ overview:
       - 情報を売ってやるという男が現れマル爺が挑戦する => ordeal
         .マル爺の使命 => character theme
         .幸運と未来の神リルフレムティードに祈り挑戦後に倒れる => ordeal => foreshadowing
-      - リリアは少し時間が欲しいと言って別れる
+      - リリアは少し時間が欲しいと言う
 
   eps 4:
     sub title: クレアリック城
@@ -280,6 +280,8 @@ overview:
     battle: リリアと師匠
     past: リリア（少し）
     gist:
+      - レオンとマル爺がリリアと別れる
+      - リリアが城に忍び込む（隠し通路）
       - リリアが王城にいる
         .リリアは王女
       - リリアが王城で剣の鍛錬をして師匠に敗北する => ordeal
@@ -290,7 +292,8 @@ overview:
         .レウネの黒柱
       - リリアが父王に謁見して出奔を願うも却下される――出さないと強く言われる
         .塀の中のリリア
-      - リリアが城をこっそり抜け出す
+      - リリアが城をこっそり抜け出す（隠し通路）
+      - リリアがレオンとマル爺と再会する
 
   eps 5:
     sub title: レウネの黒柱 1
@@ -322,7 +325,7 @@ overview:
     gist:
       - クレイドが現れて戦闘になる
         .フェリエラはフードに顔を隠す => foreshadowing
-        .クレイドがフェリエラを見て訝しげにする => foreshadowing
+        .クレイドはフェリエラに気付かない
       - リリアはローゼリアと戦って劣勢となる => ordeal
       - レオンはクレイドと戦う
         .クレイドとの戦闘中に過去を思い出す => past
@@ -368,6 +371,7 @@ overview:
     past: 
     gist:
       - フェリエラ不在
+        .リリアとフェリエラが2人きりでレオンについて話す「好きなの？」
       - アルメクトに、このまま行くと危険なことが待ち受けていると忠告される
         .未来は神にもはっきりと見ることができない。だけど予言が現実のものとなろうとしている
         .予言が現実になるのは未来を固定化する一種の呪いのような側面があるからだ
@@ -433,7 +437,7 @@ overview:
       - 
 
   eps 14:
-    sub title: 
+    sub title: 手掛かりの取得
     ordeal: 
     battle: 
     past: 
@@ -441,7 +445,7 @@ overview:
       - 
 
   eps 15:
-    sub title: 
+    sub title: 手掛かりの喪失
     ordeal: 
     battle: 
     past: 
@@ -449,48 +453,49 @@ overview:
       - 
 
   eps 16:
-    sub title: 破壊神の神殿 1
-    ordeal: リリア
+    sub title: 廃神殿の暗闘
+    ordeal: 
+    battle: 
+    past: 
     gist:
-      - 
+      - 破壊神への手掛かりを探して苦労して徒労に終わる
 
   eps 17:
-    sub title: 破壊神の神殿 2
-    ordeal: レオン
+    sub title: 妖精の村 1
+    ordeal: 
+    battle: 
+    past: 
     gist:
       - 
 
   eps 18:
-    sub title: 
-    ordeal: 
-    battle: 
-    past: 
+    sub title: 破壊神の神殿 1
+    ordeal: レオン
     gist:
-      - 
+      - クレイドから邪神の計画について知らされる
 
   eps 19:
-    sub title: 
-    ordeal: 
-    battle: 
-    past: 
+    sub title: 破壊神の神殿 2
+    ordeal: リリア
     gist:
       - 
 
   eps 20:
-    sub title: 
+    sub title: 妖精の村 2
     ordeal: 
     battle: 
     past: 
     gist:
-      - 
+      - 妖精から邪神について知らされる
+      - フェリエラとの別れ
 
   eps 21:
-    sub title: 
+    sub title: マル爺の決意
     ordeal: 
     battle: 
     past: 
     gist:
-      - 
+      - 高位神に伺い奉る占術の行使をマル爺が決意する
 
   eps 22:
     sub title: 
@@ -501,6 +506,14 @@ overview:
       - 
 
   eps 23:
+    sub title: 
+    ordeal: 
+    battle: 
+    past: 
+    gist:
+      - クレイドの復活
+
+  eps 24:
     sub title: クレイドとの最終決戦 1
     ordeal: リリア, マル爺
     gist:
@@ -509,7 +522,7 @@ overview:
       - レオンがクレイドに異空間に放り出される
       - リリアとマル爺がピンチに陥る
 
-  eps 24:
+  eps 25:
     sub title: クレイドとの最終決戦 2
     ordeal: レオン
     gist:
@@ -755,7 +768,7 @@ ordeal:
   act 1:
     eps 1:
       sub title: 始まり
-      gits:
+      gist:
         - name: 
           content: 
 
