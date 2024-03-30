@@ -1,4 +1,4 @@
-# タイトル未定
+# レオン幻想物語
 ## 目次
 ### 本文
 - text/[12]001.txt: タイトル未定
@@ -26,3 +26,4 @@
 - thinking-notes/[12]thinking-notes-010.md: マル爺の試練
 - thinking-notes/[12]thinking-notes-011.md: フェリエラの試練
 - thinking-notes/[12]thinking-notes-012.md: 老婆の願いでの試練
+- thinking-notes/[12]thinking-notes-013.md: 水着回
