@@ -27,3 +27,4 @@
 - thinking-notes/[12]thinking-notes-011.md: フェリエラの試練
 - thinking-notes/[12]thinking-notes-012.md: 老婆の願いでの試練
 - thinking-notes/[12]thinking-notes-013.md: 水着回
+- thinking-notes/[12]thinking-notes-014.md: 手掛かりを得る
