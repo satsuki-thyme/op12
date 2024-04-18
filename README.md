@@ -29,6 +29,8 @@
 - thinking-notes/[12]thinking-notes-010.md: マル爺の試練
 - thinking-notes/[12]thinking-notes-011.md: フェリエラの試練
 - thinking-notes/[12]thinking-notes-012.md: 老婆の願いでの試練
-- thinking-notes/[12]thinking-notes-013.md: id13 水着回
-- thinking-notes/[12]thinking-notes-014.md: id14, 15 大洞窟
-- thinking-notes/[12]thinking-notes-015.md: id16 手掛かりの喪失
+- thinking-notes/[12]thinking-notes-013.md: id-1m 水着回
+- thinking-notes/[12]thinking-notes-014.md: id-1n, id-1o 大洞窟 1, 2
+- thinking-notes/[12]thinking-notes-015.md: id-1p 手掛かりの喪失
+- thinking-notes/[12]thinking-notes-016.md: レオンの試練
+- thinking-notes/[12]thinking-notes-017.md: フェリエラの試練
